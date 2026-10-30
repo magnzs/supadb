@@ -1,3 +1,3 @@
-module github.com/magnzs/go-db
+module github.com/magnzs/supadb
 
 go 1.26.1
